@@ -29,3 +29,8 @@ Pages des élèves :
 * [Anna & Mathieu](https://thimbleprojects.org/belledemai5/149116/)
 * [Narimène & Ange](https://thimbleprojects.org/belledemai6/149118/)
 * [Soumaya & Farida](https://thimbleprojects.org/belledemai7/149149/)
+
+# Jeudi 8 Décembre
+
+## Résumé de la séance :
+Séance annulée (cause : sortie scolaire des tutorés)
