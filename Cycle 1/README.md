@@ -12,6 +12,11 @@ Dans l'ensemble :
 * Bon intérêt pour le développement web
 * Un élève s'est démarqué par son vif intérêt pour le developpement web, prévoir quelque chose de plus poussé pour la prochaine séance s'il finit trop vite lors de la prochaine séance.
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 4c6c5aa8404b5136083dcc1f666d30f20fd2e494
 # Jeudi 8 Décembre
 
 ## Résumé de la séance :
@@ -19,6 +24,7 @@ Dans l'ensemble :
 * Récapitulatif avec les tutorés de la séance précédente
 * Modification d'une page de profil (modification textes, images, couleurs, ajout de sections)
 
+<<<<<<< HEAD
 # Jeudi 15 Décembre
 
 ## Résumé de la séance :
@@ -28,3 +34,18 @@ Séance annulée : élèves en sortie scolaire au Dôme.
 
 
 _Photos disponibles dans le repository du groupe 3, dossier ["Cycle 1"](https://github.com/eukavlin/amn-echangesphocheens/tree/master/Cycle%201)_
+=======
+Pages des élèves : 
+* [Loïc](https://thimbleprojects.org/belledemai1/149148/)
+* [Massyl & Kenza](https://thimbleprojects.org/belledemai2/149145/)
+* [Adel & Ryan](https://thimbleprojects.org/belledemai3/149151/)
+* [Nisrine & Myriam](https://thimbleprojects.org/belledemai4/149146/)
+* [Anna & Mathieu](https://thimbleprojects.org/belledemai5/149116/)
+* [Narimène & Ange](https://thimbleprojects.org/belledemai6/149118/)
+* [Soumaya & Farida](https://thimbleprojects.org/belledemai7/149149/)
+
+# Jeudi 8 Décembre
+
+## Résumé de la séance :
+Séance annulée (cause : sortie scolaire des tutorés)
+>>>>>>> 4c6c5aa8404b5136083dcc1f666d30f20fd2e494
