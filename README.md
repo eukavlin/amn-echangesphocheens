@@ -4,7 +4,9 @@ Ce repository concentre le contenu utilisé lors des Ateliers de Médiation Num�
 
 ### Cycle 1
 Intervention auprès d'élèves de 4ème. (3 séances - Décembre 2016)
+* Cycle terminé
 
 
 ### Cycle 2
 Intervention auprès d'élèves de 3ème. (4 séances - Janvier 2017)
+* 1 séance restante.
